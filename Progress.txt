@@ -1,0 +1,2 @@
+Since joining Git-Gurus, I have learnt what Git and GitHub entail.
+I have learnt about key terms like "git commit", "git push", and "git add" I also learnt how to clone a repository and work on it locally and afterwards push it to GitHub
